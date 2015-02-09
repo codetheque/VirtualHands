@@ -1,0 +1,12 @@
+
+Controls:
+
+Place your hands within the Leap field of view
+
+* Left/Right/Up/Down arrow keys rotate the scene
+* Dragging the mouse rotates the scene
+* Rolling the mouse wheel changes camera distance
+* H toggles the help settings
+* P pauses update pausing
+* Space resets the camera
+* Esc quits the program
